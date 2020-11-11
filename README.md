@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# Getting Started with React Application and Firebase
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Inspired from Clever Programmer
+
+## INSTALLATION
+
+`npx create-react-app {project_name}`
+`npm install -g firebase-tools`
+
+// with npm
+`npm install @material-ui/core`
+
+// with yarn
+`yarn add @material-ui/core`
 
 ## Available Scripts
 
@@ -68,3 +80,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### `firebase init`
+To initialize the firebase
+
+### `firebase login`
+Login to the firebase account in which the database is present
+
+Run the Application in the developement Mode
+
+I have used Material UI Icons for User Interface Design.
